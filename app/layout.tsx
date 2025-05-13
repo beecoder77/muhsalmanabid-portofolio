@@ -6,30 +6,52 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "Muhammad Salman Abid | Backend Developer",
+  title: "Muhammad Salman Abid | Backend Developer & Blockchain Expert",
   description:
     "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
-  keywords: "backend developer, javascript, typescript, golang, telkom indonesia, crypto, blockchain, nft, cryptocurrency, web3",
+  keywords: "backend developer, javascript, typescript, golang, telkom indonesia, crypto, blockchain, nft, cryptocurrency, web3, indonesia developer, pekalongan developer, blockchain developer, microservices expert",
   openGraph: {
-    title: "Muhammad Salman Abid | Backend Developer",
+    title: "Muhammad Salman Abid | Backend Developer & Blockchain Expert",
     description:
       "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
     url: "https://muhsalmanabid.com",
     siteName: "Muhammad Salman Abid Portfolio",
     locale: "en_US",
     type: "website",
+    images: [
+      {
+        url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-05-09%20at%2013.09.10-tvWPOSeUwOSidDJ5QlfBqr1ZdbaHEt.jpeg",
+        width: 1200,
+        height: 630,
+        alt: "Muhammad Salman Abid - Backend Developer & Blockchain Expert"
+      }
+    ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "Muhammad Salman Abid | Backend Developer",
+    title: "Muhammad Salman Abid | Backend Developer & Blockchain Expert",
     description:
       "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
+    images: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-05-09%20at%2013.09.10-tvWPOSeUwOSidDJ5QlfBqr1ZdbaHEt.jpeg"]
   },
   robots: {
     index: true,
     follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
-    generator: 'v0.dev'
+  verification: {
+    google: 'your-google-site-verification', // Anda perlu menambahkan kode verifikasi Google Search Console
+  },
+  alternates: {
+    canonical: 'https://muhsalmanabid.com',
+  },
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
