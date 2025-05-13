@@ -63,6 +63,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <head>
         <link rel="icon" href="/my-character.ico" sizes="any" />
+        <meta name="google-site-verification" content="uspr_Zm0pt7B8C6SR8amewippanfHeVmAeLh526aKGY" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
