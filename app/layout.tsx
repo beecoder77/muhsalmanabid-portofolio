@@ -46,10 +46,10 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'your-google-site-verification', // Anda perlu menambahkan kode verifikasi Google Search Console
+    google: 'uspr_Zm0pt7B8C6SR8amewippanfHeVmAeLh526aKGY',
   },
   alternates: {
-    canonical: 'https://muhsalmanabid.com',
+    canonical: 'https://www.muhsalmanabid.xyz',
   },
   generator: 'v0.dev'
 }

@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://muhsalmanabid.com/sitemap.xml 
+Sitemap: https://www.muhsalmanabid.xyz/sitemap.xml 
