@@ -8,12 +8,12 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 export const metadata: Metadata = {
   title: "Muhammad Salman Abid | Backend Developer",
   description:
-    "Experienced Backend Developer with 5+ years specializing in telecommunications solutions, JavaScript, TypeScript, and Golang.",
-  keywords: "backend developer, javascript, typescript, golang, telkom indonesia, crypto, blockchain, nft",
+    "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
+  keywords: "backend developer, javascript, typescript, golang, telkom indonesia, crypto, blockchain, nft, cryptocurrency, web3",
   openGraph: {
     title: "Muhammad Salman Abid | Backend Developer",
     description:
-      "Experienced Backend Developer with 5+ years specializing in telecommunications solutions, JavaScript, TypeScript, and Golang.",
+      "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
     url: "https://muhsalmanabid.com",
     siteName: "Muhammad Salman Abid Portfolio",
     locale: "en_US",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Muhammad Salman Abid | Backend Developer",
     description:
-      "Experienced Backend Developer with 5+ years specializing in telecommunications solutions, JavaScript, TypeScript, and Golang.",
+      "Backend Developer with 5 years of experience in building scalable server-side solutions. Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. Experienced in developing cryptocurrency and NFT solutions. Passionate about creating efficient, maintainable code and solving complex technical challenges.",
   },
   robots: {
     index: true,

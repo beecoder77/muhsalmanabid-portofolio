@@ -115,8 +115,13 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg text-gray-300 mb-8 max-w-xl">
-              Experienced Backend Developer with 5+ years specializing in telecommunications solutions, creating
-              scalable and efficient technical solutions to drive business innovation.
+            Backend Developer with 5 years of experience in building scalable server-side solutions. 
+            Skilled in Node.js, TypeScript, and Golang, with expertise in RESTful APIs, microservices, and blockchain technology. 
+            </p>
+
+            <p className="text-lg text-gray-300 mb-8 max-w-xl">
+            Experienced in developing cryptocurrency and NFT solutions. 
+            Passionate about creating efficient, maintainable code and solving complex technical challenges.
             </p>
 
             <div className="flex items-center space-x-4 mb-8">

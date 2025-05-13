@@ -17,9 +17,7 @@ export default function About() {
           <h2 className="section-heading">About Me</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-cyan-400 to-blue-500 mx-auto mb-8"></div>
           <p className="max-w-3xl mx-auto text-lg text-gray-300">
-            Backend Developer with over 5 years of experience at Telkom Indonesia, specializing in telecommunications
-            solutions development. I'm passionate about creating scalable and efficient technical solutions that drive
-            business innovation.
+          I am a seasoned Backend Developer with 5 years of professional experience crafting robust and scalable server-side solutions. Throughout my journey, I've developed a deep expertise in building high-performance systems, RESTful APIs, and microservices architectures. My passion lies in solving complex technical challenges and implementing efficient solutions that drive business growth. I specialize in modern technologies like Node.js, TypeScript, and Golang, with a strong foundation in database management and system design. I'm constantly learning and adapting to new technologies while maintaining a focus on writing clean, maintainable, and well-documented code.
           </p>
         </motion.div>
 
