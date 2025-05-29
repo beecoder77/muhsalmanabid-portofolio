@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       "Experienced Backend Developer with 5+ years specializing in telecommunications solutions, JavaScript, TypeScript, and Golang.",
   },
   verification: {
-    google: 'uspr_Zm0pt7B8C6SR8amewippanfHeVmAeLh526aKGY',
+    google: 'Y3DmI33lxP2DdU6em5Cns2cViP0ygE3nDNzkB-lZxh4',
   },
   robots: {
     index: true,
@@ -50,7 +50,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <head>
-        <meta name="google-site-verification" content="uspr_Zm0pt7B8C6SR8amewippanfHeVmAeLh526aKGY" />
+      <meta name="google-site-verification" content="Y3DmI33lxP2DdU6em5Cns2cViP0ygE3nDNzkB-lZxh4" />
         <link rel="icon" href="/favicon.ico" />
         <script
           type="application/ld+json"
